@@ -3,10 +3,8 @@ alarm clock
 angel
 ant
 apple
-arm
 banana
 basketball
-beach
 bear
 bed
 bee
@@ -24,20 +22,15 @@ camel
 camera
 candle
 car
-castle
 cat
 cell phone
 chair
-church
-circle
 clock
-cloud
 coffee cup
 computer
 cookie
 cow
 crab
-crayon
 crocodile
 cruise ship
 cup
@@ -49,8 +42,6 @@ ear
 elephant
 eye
 eyeglasses
-face
-finger
 fish
 flower
 foot
@@ -67,58 +58,43 @@ headphones
 horse
 hot dog
 house
-hurricane
 ice cream
 jacket
 key
 knife
-laptop
 leaf
 leg
 lion
-microphone
 moon
-mountain
 mouse
 mouth
 nose
-ocean
 panda
-pants
 pear
 pencil
 piano
 pig
-pillow
 pizza
 potato
 rabbit
 radio
-rainbow
-river
 sandwich
-school bus
 sheep
 shoe
 shorts
 sock
 star
-steak
 strawberry
 suitcase
 sun
 table
 telephone
 television
-tent
 tiger
-toe
 tooth
 train
 tree
-truck
 t-shirt
 umbrella
 watermelon
 whale
-wheel
