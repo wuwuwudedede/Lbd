@@ -1,0 +1,10 @@
+airplane
+alarm clock
+apple
+bird
+cat
+coffee cup
+dog
+moon
+rabbit
+sheep
